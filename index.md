@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+bienvenido a mi sitio 
 
-You can use the [editor on GitHub](https://github.com/carmonayoselin/carmonayoselin.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+holii soy yoselin ,re conatre un poquito des mis gustos, me gustan los gatitos porque son super tiernos y tambien me gustan los perritos y los conejitos,me gusta de todo tipo de musica, todo tipo de musica,me gusta todos los colores ,soy fan de los atardeceres amo los atrdeceres ,me gusta mirar el cielo con las nubes, me encanta el arcoiris,me gusta mirar las estrellas y la luna  .soy fan de las rosas ,girasoles,tulipanes y gardenias,me encatntas las motos soy dan de la adrenalina ,amm soy timida no soy de hablar mucho ,,me gusta cantar y bailar,me facinan los atrapasueños,tambien soy fan de las pulseras,me gusta ayudar a las personas auque me cuesta un poquito de trabajo  por lo mismo que de soy timida ,amo las peliculas de terror y de accion,romanticas un poco no tanto,amo los tatuajes quisuiera hacerme unos pero despues de terminar mis estudios.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
